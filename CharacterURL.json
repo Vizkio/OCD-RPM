@@ -1,8 +1,3 @@
 {
-    "UserInfo": [
-        {
-            "userID": "0",
-            "url": "TestURL.com"
-        }
-    ]
+    "url": "TestURL.com"
 }
